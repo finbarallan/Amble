@@ -4,4 +4,4 @@ This [video demonstration](https://youtu.be/dDKzE3HxLDI) describes the objective
 
 The project is also accompanied with a [research paper](https://drive.google.com/file/d/1vwVWje07U3fDRB1bCXWEPny1LbvMyIGi/view?usp=sharing) detailing the development of the application.
 
-My contribution to the development of this application was awarded an A-grade.
+An A-grade was awarded for my contribution to this application.
